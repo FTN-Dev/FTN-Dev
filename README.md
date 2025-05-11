@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/Fx3VWDj00X8zXDDSLK/giphy.gif?cid=ecf05e4799bbepvqezbv3go658f0kal2m2e0yqeev9wtwzld&ep=v1_gifs_search&rid=giphy.gif&ct=g"> Hola hola, im Fathir👋
+# <img src="https://media.giphy.com/media/Fx3VWDj00X8zXDDSLK/giphy.gif?cid=ecf05e4799bbepvqezbv3go658f0kal2m2e0yqeev9wtwzld&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="70"> Hola hola, im Fathir👋
 My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job. And i wish, i can do all my best.
 
 
