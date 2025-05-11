@@ -34,7 +34,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 </table>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312" width="300"/>
 </p>
 
 <table width="100%">
@@ -44,7 +44,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 </table>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7a68486-1d26-4b14-84ae-05c2a501fc7b" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d7a68486-1d26-4b14-84ae-05c2a501fc7b" width="300"/>
 </p>
 
 ---
