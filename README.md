@@ -47,6 +47,15 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
   <img src="https://github.com/user-attachments/assets/d7a68486-1d26-4b14-84ae-05c2a501fc7b" width="300"/>
 </p>
 
+<table width="100%">
+  <tr>
+    <td style="text-align: left;"><strong>Philosophy</strong></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72dd5e67-dd8f-42cd-953e-7e4987edd52e" width="300"/>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=FTN-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
