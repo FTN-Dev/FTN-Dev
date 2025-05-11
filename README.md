@@ -29,7 +29,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 <p>Martial Arts</p>
 
-![baki](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F777082110718558702%2F&psig=AOvVaw3tYjVxXFI1XF4ViAWekshY&ust=1747043652589000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID0o4yTm40DFQAAAAAdAAAAABAQ)
+![baki](<div class="tenor-gif-embed" data-postid="22263091" data-share-method="host" data-aspect-ratio="1.76796" data-width="100%"><a href="https://tenor.com/view/baki-hanma-baki-gif-22263091">Baki Hanma Baki GIF</a>from <a href="https://tenor.com/search/baki+hanma-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FTN-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
