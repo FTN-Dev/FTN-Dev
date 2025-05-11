@@ -20,7 +20,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 ![](https://nirzak-streak-stats.vercel.app/?user=FTN-Dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FTN-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE4eGI0cGN3cnUxNTkxMjd2eDJyYnczZXI5aWxmMXFndWY3c25obCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwJPSL00H2r6Rhe/giphy.gif" width="40"> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FTN-Dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
