@@ -27,7 +27,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmN2gxMG8yanp5YmVqY3d3ZGRvMGxzeGJuaWVpbGF5bHF6dno3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1hClZBDqejrKupE41S/giphy.gif" width="50"> Hobbies
 
-<p style="font-size: 20px; font-weight: bold;">Martial Arts</p>
+<p style="font-size: 40px; font-weight: bold;">Martial Arts</p>
 
 ![Image](https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312)
 
