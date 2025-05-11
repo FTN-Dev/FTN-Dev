@@ -29,7 +29,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 <table width="100%">
   <tr>
-    <td style="text-align: left;"><strong>Left Label</strong></td>
+    <td style="text-align: left;"><strong>Martial Arts</strong></td>
   </tr>
 </table>
 
