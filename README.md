@@ -30,13 +30,11 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 <table width="100%">
   <tr>
     <td style="text-align: left;"><strong>Left Label</strong></td>
-    <td style="text-align: right;"><strong>Right Label</strong></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312" width="200"/>
-  <img src="https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312" width="400"/>
 </p>
 
 
