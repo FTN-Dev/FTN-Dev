@@ -1,10 +1,7 @@
-## Hi there 👋
-
-# 💫 About Me:
-I'am Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job.
+# Hola hola, im Fathir👋
+My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job.
 
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fathirtegarn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fathirtegar) 
 
 # 💻 Tech Stack:
