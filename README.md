@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl6bzlzdm56eGxwcDJiOW53em05NDY0b2llMzd1ZGJ3MXR5cmJwcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="70"> Hola hola, im Fathir <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5eG1yYW9hYXJzc2FtM21hZGtxNHZoNDdreDIyM3J4NzhncDB6aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="70">
 My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job. And i wish, i can do all my best. 
 
-
 <p align="center">
     <a href="https://github.com/FTN-Dev" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -25,6 +24,8 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FTN-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmN2gxMG8yanp5YmVqY3d3ZGRvMGxzeGJuaWVpbGF5bHF6dno3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1hClZBDqejrKupE41S/giphy.gif" width="50"> Hobbies
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FTN-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
