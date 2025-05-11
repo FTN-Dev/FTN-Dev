@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl6bzlzdm56eGxwcDJiOW53em05NDY0b2llMzd1ZGJ3MXR5cmJwcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pr1dbVONbGeVvSiECh/giphy.gif" width="70"> Hola hola, im Fathir👋
-My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job. And i wish, i can do all my best.
+My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job. And i wish, i can do all my best. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW16Mm9ncGdmNmd4dGhhMG5iOWRvZWc1cW9mdTlnaGNqeW9mcHNpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QU9n2d0wH5OYbRPr3N/giphy.gif" width="70">
 
 
 <p align="center">
