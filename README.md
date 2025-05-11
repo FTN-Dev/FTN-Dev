@@ -55,7 +55,9 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72dd5e67-dd8f-42cd-953e-7e4987edd52e" width="300"/>
+  <p>Ginko - Mushishi</p>
 </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=FTN-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
