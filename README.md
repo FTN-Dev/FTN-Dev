@@ -29,7 +29,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/72dd5e67-dd8f-42cd-953e-7e4987edd52e" width="300"/>
-  <p><strong>"Don't cover up the past, don't worry too much about the future, focus on the present."</strong></p>
+  <p>"Don't cover up the past, don't worry too much about the future, focus on the present."</p>
   <p><strong>Ginko - Mushishi</strong></p>
 </div>
 
