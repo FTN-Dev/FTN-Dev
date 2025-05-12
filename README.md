@@ -25,7 +25,7 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FTN-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmN2gxMG8yanp5YmVqY3d3ZGRvMGxzeGJuaWVpbGF5bHF6dno3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1hClZBDqejrKupE41S/giphy.gif" width="50"> Hobbies
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlnODk5Z29meTBpc2lqcG4xdHJpY3UxZ3A2emRtd3FyaGt6eWI0OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t4XOMsxdxOvd6dAu91/giphy.gif" width="50"> Quotes <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlnODk5Z29meTBpc2lqcG4xdHJpY3UxZ3A2emRtd3FyaGt6eWI0OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="50">
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/72dd5e67-dd8f-42cd-953e-7e4987edd52e" width="300"/>
