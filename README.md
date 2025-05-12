@@ -27,36 +27,9 @@ My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about 
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmN2gxMG8yanp5YmVqY3d3ZGRvMGxzeGJuaWVpbGF5bHF6dno3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1hClZBDqejrKupE41S/giphy.gif" width="50"> Hobbies
 
-<table width="100%">
-  <tr>
-    <td style="text-align: left;"><strong>Martial Arts</strong></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fdf1850b-cf30-47f3-a8f2-ad6b8fc24312" width="300"/>
-  <p><strong>Baki Hanma - Baki</strong></p>
-</div>
-
-<table width="100%">
-  <tr>
-    <td style="text-align: left;"><strong>Workout / Calisthenic</strong></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d7a68486-1d26-4b14-84ae-05c2a501fc7b" width="300"/>
-  <p><strong>Baki Hanma - Baki</strong></p>
-</div>
-
-<table width="100%">
-  <tr>
-    <td style="text-align: left;"><strong>Philosophy</strong></td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/72dd5e67-dd8f-42cd-953e-7e4987edd52e" width="300"/>
+  <p><strong>"Don't cover up the past, don't worry too much about the future, focus on the present."</strong></p>
   <p><strong>Ginko - Mushishi</strong></p>
 </div>
 
