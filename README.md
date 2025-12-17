@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/lHNs0JWxMZY134gSPq/giphy.gif?cid=ecf05e4734eu6ddt5pm6f8hkm4kkuzsoi5zfdzvtub3ecuh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> Hola hola, im Fathir <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5eG1yYW9hYXJzc2FtM21hZGtxNHZoNDdreDIyM3J4NzhncDB6aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="70">
+# <p align='center'>
+<img src="https://media.giphy.com/media/lHNs0JWxMZY134gSPq/giphy.gif?cid=ecf05e4734eu6ddt5pm6f8hkm4kkuzsoi5zfdzvtub3ecuh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> Hola hola, im Fathir <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5eG1yYW9hYXJzc2FtM21hZGtxNHZoNDdreDIyM3J4NzhncDB6aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="70">
+</p>
+
 My name is Fathir Tegar Natagalih, livin in Malang, Indonesia. I've known about computers since junior high school, but I've only recently learned about programming languages ​​and just a little bit or the surface of CTF. I want to be a Security Analyst or Malware Analyst, cause i thinks that is a cool job. Anytime, i'll do my best. 
 
 <p align="center">
