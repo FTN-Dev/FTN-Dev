@@ -19,10 +19,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FTN-Dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FTN-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE4eGI0cGN3cnUxNTkxMjd2eDJyYnczZXI5aWxmMXFndWY3c25obCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PKEH9WF0eq3ja/giphy.gif" width="50"> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FTN-Dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlnODk5Z29meTBpc2lqcG4xdHJpY3UxZ3A2emRtd3FyaGt6eWI0OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t4XOMsxdxOvd6dAu91/giphy.gif" width="30"> Quotes <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlnODk5Z29meTBpc2lqcG4xdHJpY3UxZ3A2emRtd3FyaGt6eWI0OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vx8UvEl6jTEnZX1w1E/giphy.gif" width="30">
 
 <div align="center">
