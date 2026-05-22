@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/lHNs0JWxMZY134gSPq/giphy.gif?cid=ecf05e4734eu6ddt5pm6f8hkm4kkuzsoi5zfdzvtub3ecuh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> Hola hola, im Fathir <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5eG1yYW9hYXJzc2FtM21hZGtxNHZoNDdreDIyM3J4NzhncDB6aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="70">
+# <img src="https://media.giphy.com/media/lHNs0JWxMZY134gSPq/giphy.gif?cid=ecf05e4734eu6ddt5pm6f8hkm4kkuzsoi5zfdzvtub3ecuh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"> Hola hola, Im Fathir <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5eG1yYW9hYXJzc2FtM21hZGtxNHZoNDdreDIyM3J4NzhncDB6aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="70">
 
-<p style="font-size: 20px;">My name is Fathir. I've known about computers since junior high school. Am very very insterested in CTF, Servers, Networking, and Security Infrastructures. I want to be part of SOC Team and taking role as DFIR or THIR, or even more, Security Engineer. Cause i think those are cool jobs. I always trying to learn about what i want to be, everyday, even just a little bit. Anytime, i'll do my best.</p> 
+<p style="font-size: 20px;">My name is Fathir. I've known about computers since junior high school. Am very very insterested in CTF, Servers, Networking, and Security Infrastructures. I want to be part of SOC Team and taking role as DFIR or THIR, or even more, Security Engineer. Cause i think those are cool jobs. I always trying to learn about what i want to be, everyday, even just a little bit. Anytime, I'll do my best.</p> 
 
 <p align="center">
     <a href="https://github.com/FTN-Dev" target="_blank">
